@@ -80,4 +80,5 @@
 |天津|[长城汽车股份有限公司天津园区](http://www.gwm.com.cn/)|2019年3月28日|大小周|[招聘简章](http://www.hljsxy.org.cn/website/sites/common/readwNews.aspx?JpkId=1&id=13289)|
 
 更多不良公司（包括但不限于违法加班）请参见：
+
 [程序员找工作黑名单](https://github.com/shengxinjing/programmer-job-blacklist)
